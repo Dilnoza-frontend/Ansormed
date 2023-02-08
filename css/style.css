@@ -19,6 +19,8 @@ body {
   line-height: 1.5;
   font-family: "Open Sans", "Arial", sans-serif;
   letter-spacing: 2px;
+  color: #444;
+  background-color: #fff;
 }
 /* container */
 .container {
@@ -87,6 +89,7 @@ body {
   font-weight: 700;
   font-size: 15px;
   line-height: 150%;
+  text-transform: uppercase;
   }
 .hero {
   position: absolute;
@@ -149,7 +152,7 @@ body {
   justify-content: space-between;
   align-items: center;
   height: 97.94px;
-  background: red;
+  background: #222222;
     }
 .footer-list {
   list-style: none;
